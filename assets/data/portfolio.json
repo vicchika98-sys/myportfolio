@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "title": "Web Design Project 1",
+      "image": "assets/images/web/work1.png",
+      "category": "web"
+    },
+    {
+      "title": "Web Design Project 2",
+      "image": "assets/images/web/work2.jpg",
+      "category": "web"
+    },
+    {
+      "title": "Web Design Project 3",
+      "image": "assets/images/web/work3.jpg",
+      "category": "web"
+    },
+    {
+      "title": "Web Design Project 4",
+      "image": "assets/images/web/work4.jpg",
+      "category": "web"
+    },
+    {
+      "title": "Web Design Project 5",
+      "image": "assets/images/web/work5.jpg",
+      "category": "web"
+    },
+    {
+      "title": "Graphic Design - Poster 1",
+      "image": "assets/images/graphics/poster1.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 2",
+      "image": "assets/images/graphics/poster2.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 3",
+      "image": "assets/images/graphics/poster3.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 4",
+      "image": "assets/images/graphics/poster4.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 5",
+      "image": "assets/images/graphics/poster5.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 6",
+      "image": "assets/images/graphics/poster6.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 7",
+      "image": "assets/images/graphics/poster7.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 8",
+      "image": "assets/images/graphics/poster8.png",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 9",
+      "image": "assets/images/graphics/poster9.jpg",
+      "category": "graphic"
+    },
+    {
+      "title": "Graphic Design - Poster 10",
+      "image": "assets/images/graphics/poster10.jpg",
+      "category": "graphic"
+    }
+  ]
+}
